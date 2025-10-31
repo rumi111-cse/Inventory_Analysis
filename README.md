@@ -5,7 +5,7 @@ You’ll explore raw purchase, sales, and freight data; perform ETL using Python
 
 It’s structured like a real-world company assignment to prove you can translate data into business decisions — the kind of case study that impresses recruiters and hiring managers.
 
-
+dataset: https://drive.google.com/file/d/1VpwUQCDrqd1C8WI7XwzhehC4borxLbFz/view?usp=sharing
 🧠 Key Learning Objectives
 
 Build a SQL-based data model from messy procurement data
