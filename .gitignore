@@ -1,0 +1,20 @@
+# Ignore everything
+*
+
+# But keep the following:
+!*.ipynb
+!*.py
+!*.txt
+!*.md
+!.gitignore
+
+# Optionally keep folders for code
+!scripts/
+!notebooks/
+
+# Explicitly ignore large data and DB files
+*.csv
+*.db
+/data/
+*.zip
+*.log
